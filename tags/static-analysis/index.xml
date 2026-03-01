@@ -1,3 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Static Analysis on Gaspard Thévenon</title><link>https://gthev.github.io/tags/static-analysis/</link><description>Recent content in Static Analysis on Gaspard Thévenon</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://gthev.github.io/tags/static-analysis/index.xml" rel="self" type="application/rss+xml"/><item><title>B-Side, Binary-Level Static System Call Identification</title><link>https://gthev.github.io/publications/bside/</link><pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate><guid>https://gthev.github.io/publications/bside/</guid><description>&lt;img src="https://gthev.github.io/" alt="Featured image of post B-Side, Binary-Level Static System Call Identification" /&gt;&lt;p&gt;Static analysis of binaries to automatically infer system calls made during execution.
-&lt;a class="link" href="https://dl.acm.org/doi/abs/10.1145/3652892.3700761" target="_blank" rel="noopener"
- &gt;Check out this article!&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Static Analysis on Gaspard Thévenon</title>
+        <link>http://localhost:1313/tags/static-analysis/</link>
+        <description>Recent content in Static Analysis on Gaspard Thévenon</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/static-analysis/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>B-Side, Binary-Level Static System Call Identification</title>
+            <link>http://localhost:1313/publications/bside/</link>
+            <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/publications/bside/</guid>
+            <description>&lt;img src=&#34;http://localhost:1313/&#34; alt=&#34;Featured image of post B-Side, Binary-Level Static System Call Identification&#34; /&gt;&lt;p&gt;Static analysis of binaries to automatically infer system calls made during execution.&#xA;&lt;a class=&#34;link&#34; href=&#34;https://dl.acm.org/doi/abs/10.1145/3652892.3700761&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;Check out this article!&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+        </item></channel>
+</rss>
