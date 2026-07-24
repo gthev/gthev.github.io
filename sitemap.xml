@@ -2,38 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://gthev.github.io/</loc>
+    <lastmod>2026-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gthev.github.io/publications/diffantiradiance/</loc>
+    <lastmod>2026-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gthev.github.io/tags/differentiable-rendering/</loc>
+    <lastmod>2026-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gthev.github.io/tags/inverse-rendering/</loc>
+    <lastmod>2026-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gthev.github.io/publications/</loc>
+    <lastmod>2026-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gthev.github.io/tags/radiosity/</loc>
+    <lastmod>2026-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gthev.github.io/tags/</loc>
+    <lastmod>2026-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gthev.github.io/publications/bside/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publications/bside/</loc>
+    <loc>https://gthev.github.io/tags/static-analysis/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publications/</loc>
-    <lastmod>2024-12-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/static-analysis/</loc>
-    <lastmod>2024-12-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-12-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/publications/inbrower-rendering/</loc>
+    <loc>https://gthev.github.io/publications/inbrower-rendering/</loc>
     <lastmod>2022-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/medical-visualization/</loc>
+    <loc>https://gthev.github.io/tags/medical-visualization/</loc>
     <lastmod>2022-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/volume-rendering/</loc>
+    <loc>https://gthev.github.io/tags/volume-rendering/</loc>
     <lastmod>2022-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://gthev.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/example-category/</loc>
+    <loc>https://gthev.github.io/categories/example-category/</loc>
   </url><url>
-    <loc>http://localhost:1313/page/</loc>
+    <loc>https://gthev.github.io/page/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://gthev.github.io/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/teaching/</loc>
+    <loc>https://gthev.github.io/teaching/</loc>
   </url>
 </urlset>
