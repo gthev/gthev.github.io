@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Publications — Gaspard Thévenon</title>
+  <meta name="description" content="Publications | Gaspard Thévenon website.">
+  <link rel="icon" href="assets/favicon.png" type="image/png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="wrap">
+      <div class="identity">
+        <img class="avatar" src="assets/mephoto.png" alt="Gaspard Thévenon">
+        <div>
+          <h1>Gaspard Thévenon</h1>
+          <p class="tagline">PhD Student at LIRIS, University of Lyon 1</p>
+        </div>
+      </div>
+
+      <nav class="tabs" aria-label="Navigation principale">
+        <a href="index.html">About</a>
+        <a href="publications.html" aria-current="page">Publications</a>
+        <a href="teaching.html">Teaching</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <div class="wrap">
+
+      <section>
+        <h2>Publications</h2>
+        <div id="pub-list"></div>
+      </section>
+
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>&copy; 2026 Gaspard Thévenon. Last update : august 2026.</p>
+    </div>
+  </footer>
+
+  <script src="assets/publications-data.js"></script>
+  <script src="assets/render-publications.js"></script>
+  <script>renderPublications("pub-list");</script>
+
+</body>
+</html>
