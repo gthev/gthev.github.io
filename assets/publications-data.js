@@ -6,7 +6,7 @@ const PUBLICATIONS = [
     authors: '<span class="me">Gaspard Thévenon</span>, David Coeurjolly, Julie Digne, Nicolas Bonneel',
     summary: "Differentiable radiosity renderer, based on the antiradiance formulation. We showcase it on several inverse rendering tasks, such as environment map, material, light sources, and position estimation.",
     thumb: "assets/diffantirad.png",
-    links: { "Paper": "pdf/diffantirad.pdf", "Supplementary": "pdf/diffantirad_supplem.pdf", "Code": "https://gitlab.liris.cnrs.fr/gthevenon/diffantirad", "HAL": "https://hal.science/hal-05693070", "Presentation": "https://www.youtube.com/watch?v=i3xVpn_FR1Y" },
+    links: { "Paper": "pdf/diffantirad.pdf", "Supplementary": "pdf/diffantirad_supplem.pdf", "Code": "https://github.com/gthev/diffantirad", "HAL": "https://hal.science/hal-05693070", "Presentation": "https://www.youtube.com/watch?v=i3xVpn_FR1Y" },
     bibtex: `@inproceedings{thevenon:hal-05693070,
                 TITLE = {{Differentiable Radiosity for Inverse Rendering}},
                 AUTHOR = {Th{\'e}venon, Gaspard and Coeurjolly, David and Digne, Julie and Bonneel, Nicolas},
